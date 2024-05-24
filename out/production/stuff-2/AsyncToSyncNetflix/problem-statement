@@ -1,0 +1,38 @@
+Problem Statement:
+
+// we have an executor which is async, we need to make it sync without changing its code
+// solution is to create a wrapper around executor -> SynchronousExecutor
+// now in its execution func, use object to wait and notify after wrapping the original
+// callback function which eventually solves the problem!
+
+
+
+Imagine we have an Executor class that performs some useful
+task asynchronously via the method asynchronousExecution().
+In addition the method accepts a callback object which implements
+the Callback interface. the object’s done() gets invoked when the
+asynchronous execution is done. The definition for the involved
+classes is below:
+
+Executor Class
+public class Executor {
+
+    public void asynchronousExecution(Callback callback) throws Exception {
+
+        Thread t = new Thread(() -> {
+            // Do some useful work
+            try {
+            // Simulate useful work by sleeping for 5 seconds
+                Thread.sleep(5000);
+            } catch (InterruptedException ie) {
+            }
+            callback.done();
+        });
+        t.start();
+    }
+}
+Callback Interface
+public interface Callback {
+
+    public void done();
+}

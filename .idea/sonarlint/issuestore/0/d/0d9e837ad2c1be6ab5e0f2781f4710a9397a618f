@@ -1,0 +1,19 @@
+
+g	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(ÄÖùÿÿÿÿ8¼Íí™Ç1
+E
+java:S1604""(Make this anonymous inner class a lambda(ÿë“Ÿ8½Íí™Ç1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‰–¸ıÿÿÿÿ
+L
+java:S1197
+"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8ÒÍí™Ç1
+N
+java:S1602",Remove useless curly braces around statement(¢ò˜Šùÿÿÿÿ8ÓÍí™Ç1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óÅ©ûÿÿÿÿ8ÔÍí™Ç1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í­¡Ìúÿÿÿÿ8ÕÍí™Ç1
+R
+java:S2446("0"notify" may not wake up the appropriate thread.(·³’Æûÿÿÿÿ8×Íí™Ç1
+
+java:S1130<"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÄÖùÿÿÿÿ8ÙÍí™Ç1
+€
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8ÛÍí™Ç1
+J	java:S108B")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ8ÛÍí™Ç1

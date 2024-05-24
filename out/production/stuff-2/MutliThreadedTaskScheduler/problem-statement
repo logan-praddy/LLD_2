@@ -1,0 +1,9 @@
+Problem Statement:
+
+Design and code a delayed schedular.
+- Execute given tasks with a timeout
+- Execute tasks in parallel with a threadpool once timeout is reached
+
+
+Resource -
+https://leetcode.com/tag/concurrency/discuss/2661002/Afraid-of-Multi-threading-Interview-Task-Scheduler-code-and-some-Important-topics

@@ -1,0 +1,22 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®“èöýÿÿÿÿ8ïß£’Ç1
+D
+java:S2189 ""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ÿß£’Ç1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¼Ùˆ÷8‡à£’Ç1
+v	java:S116"URename this field "MAX_TOKENS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¡ŽŠüÿÿÿÿ8Šà£’Ç1
+v	java:S116"URename this field "ONE_SECOND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×„ðùÿÿÿÿ8Šà£’Ç1
+C
+java:S1170"!Make this final field static too.(©×„ðùÿÿÿÿ8‹à£’Ç1
+N
+java:S1602",Remove useless curly braces around statement(°ž›µøÿÿÿÿ8”à£’Ç1
+a
+java:S1612"?Replace this lambda with method reference 'this::daemonThread'.(°ž›µøÿÿÿÿ8–à£’Ç1
+M
+java:S2446%"0"notify" may not wake up the appropriate thread.(­ÀôÉ8Ÿà£’Ç1
+{
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ÿà£’Ç1
+E	java:S108)")Either remove or fill this block of code.(ä ¹€8¦à£’Ç1
+\
+java:S1161/":Add the "@Override" annotation above this method signature(øø¯¿øÿÿÿÿ8§Åø¼Ç1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÆÀûý8¦à£’Ç1

@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îï–ùÿÿÿÿ8·Ÿ­åÊ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÖÀ×8ÊŸ­åÊ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ÌŸ­åÊ1
+E	java:S108")Either remove or fill this block of code.(”ı¾8ÌŸ­åÊ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í­å¨8ÍŸ­åÊ1
+o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±»Æûûÿÿÿÿ8ÍŸ­åÊ1
+{
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ÎŸ­åÊ1
+E	java:S108-")Either remove or fill this block of code.(”ı¾8ÎŸ­åÊ1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(í­å¨8ÏŸ­åÊ1
+W
+java:S1161L":Add the "@Override" annotation above this method signature(“–ış8ĞŸ­åÊ1
+E	java:S108P")Either remove or fill this block of code.(”ı¾8ĞŸ­åÊ1
+E	java:S108U")Either remove or fill this block of code.(”ı¾8ÑŸ­åÊ1

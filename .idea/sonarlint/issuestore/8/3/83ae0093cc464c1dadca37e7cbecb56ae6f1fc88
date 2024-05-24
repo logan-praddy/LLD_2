@@ -1,0 +1,33 @@
+
+v
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õæªƒ8«ÃÛÚÇ1
+D
+java:S1604F"(Make this anonymous inner class a lambda(£·®8«ÃÛÚÇ1
+E
+java:S1604U"(Make this anonymous inner class a lambda(ÿïŞß8¬ÃÛÚÇ1
+J
+java:S1604b"(Make this anonymous inner class a lambda(ûè¿°şÿÿÿÿ8¬ÃÛÚÇ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç„€œùÿÿÿÿ8­ÃÛÚÇ1
+`
+java:S1155&">Use isEmpty() to check whether the collection is empty or not.(¡³Œ’ûÿÿÿÿ8¹ÃÛÚÇ1
+]	java:S125@"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8Á½ÜÚÇ1
+€
+java:S2142O"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8ÀÃÛÚÇ1
+>
+java:S2129L"!Remove this "Integer" constructor(ºÛ†Å8ÁÃÛÚÇ1
+e
+java:S5738L"HRemove this call to a deprecated method, it has been marked for removal.(ºÛ†Å8ÁÃÛÚÇ1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(•÷ÏÀıÿÿÿÿ8ÁÃÛÚÇ1
+J	java:S108O")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ8ÁÃÛÚÇ1
+€
+java:S2142\"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8ÂÃÛÚÇ1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(óÂœéÿÿÿÿÿ8ÂÃÛÚÇ1
+J	java:S108\")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ8ÂÃÛÚÇ1
+€
+java:S2142j"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8ÃÃÛÚÇ1
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(È¡²å8ÃÃÛÚÇ1
+J	java:S108j")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ8ÃÃÛÚÇ1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8á½ÜÚÇ1
+M
+java:S1128"1Remove this unused import 'java.util.concurrent'.(íĞ¢68ÄÃÛÚÇ1

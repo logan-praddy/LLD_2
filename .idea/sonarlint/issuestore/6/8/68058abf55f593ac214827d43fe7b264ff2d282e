@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şü Öøÿÿÿÿ8®°ÍœÎ1
+
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏóÂ»8½°ÍœÎ1
+m
+java:S1149&"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÍôŸ8¾°ÍœÎ1
+m
+java:S1149'"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(’ïÂõ8¾°ÍœÎ1
+e
+java:S2094‡"BRemove this empty class, write its code or make it an "interface".(©·¢€úÿÿÿÿ8Â°ÍœÎ1
+J
+java:S1068'"-Remove this unused "redoStack" private field.(’ïÂõ8Ã°ÍœÎ1

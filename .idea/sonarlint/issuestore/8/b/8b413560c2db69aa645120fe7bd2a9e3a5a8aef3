@@ -1,0 +1,9 @@
+
+•
+java:S1319Z"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(¥¶¿“ÿÿÿÿÿ8¾µ©šÎ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú©î
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÌÃòúÿÿÿÿ8è‰©šÎ1
+]	java:S125"<This block of commented-out lines of code should be removed.(îõÒäùÿÿÿÿ8«Ş¿ûÔ1
+]	java:S125"<This block of commented-out lines of code should be removed.(´Êƒîøÿÿÿÿ8²éÀûÔ1
+X	java:S125/"<This block of commented-out lines of code should be removed.(¹ˆ¡õ8¼ÂÀûÔ1

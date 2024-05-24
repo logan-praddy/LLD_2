@@ -1,0 +1,26 @@
+
+{
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãûîµùÿÿÿÿ8ÙÅ»„È1
+u
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Žìu8ÚÅ»„È1
+v
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨À‚ò8ÚÅ»„È1
+m	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¿³ê8ÚÅ»„È1
+m	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¿³ê8ÚÅ»„È1
+m	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¿³ê8ÚÅ»„È1
+s
+java:S1104"QMake first a static final constant or non-public and provide accessors if needed.(Á¼˜ˆÿÿÿÿÿ8ÚÅ»„È1
+t
+java:S1104"RMake second a static final constant or non-public and provide accessors if needed.(†ÔÆæúÿÿÿÿ8ÚÅ»„È1
+7
+java:S1700!"Rename field "bucket"(¹œŽ¯ùÿÿÿÿ8ÚÅ»„È1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°½ßÇ8ÛÅ»„È1
+X	java:S125"<This block of commented-out lines of code should be removed.(¼¢Ëë8ãÅ»„È1
+u	java:S116F"TRename this field "key_space" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òûè”úÿÿÿÿ8æÅ»„È1
+v	java:S116G"URename this field "hash_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â²èýÿÿÿÿ8æÅ»„È1
+n
+java:S1128"LRemove this unused import 'java.util.concurrent.RejectedExecutionException'.(É‘Äýýÿÿÿÿ8èÅ»„È1
+g
+java:S1128"JRemove this unused import 'java.util.concurrent.RejectedExecutionHandler'.(ÃÖò…8èÅ»„È1
+a
+java:S1128	"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8èÅ»„È1
